@@ -9,6 +9,6 @@
 ## Task5:
     In this task, I implemented the left-recursion-elimination algorithm for a given context-free grammar (CFG).
 ## Task6:
-   In this task, I implemented algorithms for computing the First and Follow functions for the variables of a given context-free grammar (CFG).
+   In this task, I implemented algorithms for computing the First and Follow functions for the variables of a given context-        free grammar (CFG).
 ## Task7: 
    In this task, I implemented an LL(1) parser using a pushdown-automata (PDA) and predictive parsing tables.
