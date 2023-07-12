@@ -1,0 +1,11 @@
+WS=1
+IF=2
+ELSE=3
+COMP=4
+ID=5
+LIT=6
+NUM=7
+LP=8
+RP=9
+'('=8
+')'=9
